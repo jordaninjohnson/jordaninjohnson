@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/jordaninjohnson/static/css/main.a617e044.chunk.css",
+    "main.js": "/jordaninjohnson/static/js/main.90ffcdc0.chunk.js",
+    "main.js.map": "/jordaninjohnson/static/js/main.90ffcdc0.chunk.js.map",
+    "runtime-main.js": "/jordaninjohnson/static/js/runtime-main.3bee425b.js",
+    "runtime-main.js.map": "/jordaninjohnson/static/js/runtime-main.3bee425b.js.map",
+    "static/js/2.eeac6ac8.chunk.js": "/jordaninjohnson/static/js/2.eeac6ac8.chunk.js",
+    "static/js/2.eeac6ac8.chunk.js.map": "/jordaninjohnson/static/js/2.eeac6ac8.chunk.js.map",
+    "static/js/3.30465a7e.chunk.js": "/jordaninjohnson/static/js/3.30465a7e.chunk.js",
+    "static/js/3.30465a7e.chunk.js.map": "/jordaninjohnson/static/js/3.30465a7e.chunk.js.map",
+    "index.html": "/jordaninjohnson/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/jordaninjohnson/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.eeac6ac8.chunk.js.LICENSE.txt": "/jordaninjohnson/static/js/2.eeac6ac8.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/jordaninjohnson/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3bee425b.js",
+    "static/js/2.eeac6ac8.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.90ffcdc0.chunk.js"
+  ]
+}
