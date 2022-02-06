@@ -1,3 +1,3 @@
 # jordaninjohnson.com
 jordaninjohnson.com
-This is going to be an awesome site that demonstrates my capabilities
+!=] Listen to the music I made and check out what I have been up to!
