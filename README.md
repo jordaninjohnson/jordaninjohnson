@@ -7,7 +7,7 @@ I'm a passionate developer who loves to explore the vast world of coding and tec
 💻 Tech Stack
 
     Programming Languages: JavaScript, Python, Java, C++, CSS.
-    Frameworks: React, Express.js, Django, Laravel.
+    Frameworks: NextJS, React, Express.js, Django, Laravel.
     Libraries: React Native, jQuery.
     Databases: MySQL, PostgreSQL, MongoDB, SQLite, Firebase.
     Version Control: Git, GitHub, Bitbucket, GitLab.
