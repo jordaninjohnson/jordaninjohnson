@@ -20,7 +20,7 @@ I'm a passionate developer who loves to explore the vast world of coding and tec
 
 I find joy in a diverse range of activities. When I'm not coding, you can find me:
 
-    📚 Reading books and expanding my knowledge.
+    🌐📚 Reading books and expanding my knowledge.
     🎸 Playing music and exploring different genres.
     🌱 Gardening and nurturing plants.
     ⚽️ Playing sports and staying active.
@@ -30,9 +30,7 @@ I find joy in a diverse range of activities. When I'm not coding, you can find m
 
 I'm always excited to collaborate and connect with fellow developers and enthusiasts. Feel free to reach out to me through the following channels:
 
-    📧 Email:
-    💼 LinkedIn: 
-    🌐 Website: 
+    💼 LinkedIn: https://www.linkedin.com/in/jordaninjohnson/
 
 🙏 Thank You
 
