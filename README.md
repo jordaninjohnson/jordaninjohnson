@@ -1,7 +1,7 @@
 👋 Hello, World! I'm Jordan Isaiah Najjar Johnson!
 
-Welcome to my GitHub profile! 🌟
-🧐 About Me
+Welcome to my GitHub profile! 
+🌟 About Me
 
 I'm a passionate developer who loves to explore the vast world of coding and technology. With a curious mind and a hunger for knowledge, I constantly seek new challenges and opportunities to grow. From crafting elegant solutions to tackling complex problems, I enjoy every step of the journey.
 💻 Tech Stack
