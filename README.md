@@ -6,12 +6,12 @@ Welcome to my GitHub profile! 🌟
 I'm a passionate developer who loves to explore the vast world of coding and technology. With a curious mind and a hunger for knowledge, I constantly seek new challenges and opportunities to grow. From crafting elegant solutions to tackling complex problems, I enjoy every step of the journey.
 💻 Tech Stack
 
-    Programming Languages: JavaScript, Python, Java, C++, CSS.
+    Programming Languages: HTML, CSS, JavaScript, Java, C++, PHP.
     Frameworks: NextJS, React, Express.js, Django, Laravel.
     Libraries: React Native, jQuery.
-    Databases: MySQL, PostgreSQL, MongoDB, SQLite, Firebase.
-    Version Control: Git, GitHub, Bitbucket, GitLab.
-    Development Tools: Visual Studio Code, IntelliJ IDEA, Eclipse, Xcode, Android Studio, Docker.
+    Databases: MySQL, PostgreSQL, MongoDB, NoSQL.
+    Version Control: Git, GitHub.
+    Development Tools: Visual Studio Code, IntelliJ IDEA, Eclipse, Android Studio, Docker.
     Cloud Platforms: AWS (Amazon Web Services), Google Cloud Platform, Firebase, Heroku.
     Testing Frameworks: Jest, PHPUnit.
     Other Tools: npm, Yarn, Webpack, Babel, ESLint, Prettier, Postman.
