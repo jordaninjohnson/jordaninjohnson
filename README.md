@@ -22,7 +22,7 @@ I find joy in a diverse range of activities. When I'm not coding, you can find m
 
     🌐📚 Reading books and expanding my knowledge.
     🎸 Playing music and exploring different genres.
-    🌱 Gardening and nurturing plants.
+    🌱 Gardening.
     ⚽️ Playing sports and staying active.
     ✈️ Traveling and discovering new cultures.
 
