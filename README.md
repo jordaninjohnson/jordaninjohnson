@@ -6,21 +6,21 @@ Welcome to my GitHub profile!
 I'm a passionate developer who loves to explore the vast world of coding and technology. With a curious mind and a hunger for knowledge, I constantly seek new challenges and opportunities to grow. From crafting elegant solutions to tackling complex problems, I enjoy every step of the journey.
 💻 Tech Stack
 
-    Programming Languages: HTML, CSS, JavaScript, Java, C++, PHP.
-    Frameworks: NextJS, React, Express.js, Django, Laravel.
+    Programming Languages: Java, JavaEE, HTML, CSS, JavaScript, C++, PHP.
+    Frameworks: NextJS, React, Express.js, Spring Boot.
     Libraries: React Native, jQuery.
     Databases: MySQL, PostgreSQL, MongoDB, NoSQL.
     Version Control: Git, GitHub.
-    Development Tools: Visual Studio Code, IntelliJ IDEA, Eclipse, Android Studio, Docker.
+    Development Tools: Visual Studio, IntelliJ IDEA, Eclipse, Android Studio, Docker.
     Cloud Platforms: AWS (Amazon Web Services), Google Cloud Platform, Firebase, Heroku.
-    Testing Frameworks: Jest, PHPUnit.
+    Testing Frameworks: JUnit, Jest, PHPUnit.
     Other Tools: npm, Yarn, Webpack, Babel, ESLint, Prettier, Postman.
 
 🌈 Interests
 
 I find joy in a diverse range of activities. When I'm not coding, you can find me:
 
-    🌐📚 Reading books and expanding my knowledge.
+    🌐📚 Reading books and exploring outside.
     🎸 Playing music and exploring different genres.
     🌱 Gardening.
     ⚽️ Playing sports and staying active.
