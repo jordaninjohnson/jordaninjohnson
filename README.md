@@ -32,7 +32,7 @@ I'm always excited to collaborate and connect with fellow developers and enthusi
 
     💼 LinkedIn: https://www.linkedin.com/in/jordaninjohnson/
 
-🙏 Thank You
+🙏 Thank You!
 
 Thank you for visiting my profile! I hope you find something interesting here. Let's embark on an amazing journey together, embracing the world of coding and innovation. 🚀
 
