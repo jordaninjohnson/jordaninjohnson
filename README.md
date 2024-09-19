@@ -1,7 +1,7 @@
 ✨🌍👾🔭✨
 
 👋 Hello,
-Welcome to my GitHub profile!!
+Welcome to my GitHub profile!
 
 I'm a passionate developer driven by curiosity and a love for technology. I thrive on tackling challenges and creating elegant solutions in our dynamic tech world. It's a journey filled with endless opportunities for growth, innovation, and personal development.
 
