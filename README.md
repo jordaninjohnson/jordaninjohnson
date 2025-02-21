@@ -9,7 +9,7 @@ Hi, I'm **Jordan Johnson**, an **IT Management graduate student** passionate abo
 - 🔐 **Cybersecurity & Compliance** – Firewalls, SSL/TLS, IDS/IPS, Network Hardening  
 - 🎯 **IT Operations & Strategy** – Process Optimization, IT Governance, Documentation  
 
-I love solving complex problems, optimizing IT systems, and bridging the gap between **technology and business strategy**. Let's build something great together! 🚀  
+I love solving complex problems, optimizing IT systems, and bridging the gap between **technology and business strategy**. Let's build something great together!! 🚀  
 
 ---
 
