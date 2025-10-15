@@ -32,6 +32,7 @@ I love solving complex problems, optimizing IT systems, and bridging the gap bet
 
 ### 🏆 Certifications  
 ✅ **AWS Certified Cloud Practitioner** (2025)  
+✅ **CompTIA Security+** (2025)  
 ✅ **CompTIA Network+** (2025)  
 ✅ **CompTIA A+** (2024)  
 ✅ **Full Stack Web Development** – University of Utah (2020)  
