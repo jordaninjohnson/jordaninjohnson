@@ -2,7 +2,7 @@
 
 ## Enterprise Application Administration | IT Operations | Business Systems | Higher Education Technology
 
-I am an information technology professional with a **Bachelor of Science in Information Technology** and a **Master of Science in Information Technology Management**. My career has combined technical problem-solving, project coordination, process improvement, documentation, customer service, and service to the Salt Lake Community College community.
+I am an information technology and project-management professional with a **Bachelor of Science in Information Technology** and a **Master of Science in Information Technology Management**. My experience has combined internal software and technology responsibility at Modern Construction with technical operations, process improvement, documentation, leadership, and service at Salt Lake Community College. In April 2026, SLCC recognized my leadership with the **Outstanding Leadership Award**.
 
 I am building toward a career in **enterprise application administration and business systems support**, with a focus on reliable applications, secure integrations, clear documentation, effective change management, and technology that improves the experience of students, faculty, and staff.
 
@@ -29,9 +29,13 @@ My current technical abilities are **intermediate and growing rapidly through st
 
 ## 💼 What I Bring
 
-### Higher Education and Customer Service
+### Internal Technology and Project Management
 
-Through my work at **Salt Lake Community College**, I supported a broad range of students, employees, departments, campuses, and institutional projects. I became known for helping people solve problems, coordinating work across teams, communicating clearly, and contributing to a safe, welcoming, and inclusive community college experience.
+At **Modern Construction**, where I continue to work part time as a Project Manager, I serve as the company’s primary internal technology resource. I manage internal software and technology needs, gather and compare subcontractor bids for technology and electrical components, and coordinate those project scopes from planning through completion.
+
+### Higher Education Operations and Service
+
+Through my work at **Salt Lake Community College**, I have led specialized Sign Shop operations involving design, RIP, and CAM applications, CNC equipment, printers, laser systems, file workflows, work orders, documentation, vendor escalation, and cross-campus project coordination. I focus on clear communication and a safe, welcoming, accessible, and inclusive community college experience.
 
 ### Leadership and Collaboration
 
@@ -198,6 +202,14 @@ Graduate work emphasized IT leadership, technology operations, innovation, finan
 **Western Governors University**
 
 Coursework developed a foundation in systems, networking, security, cloud computing, databases, scripting, web technologies, and IT operations.
+
+---
+
+## 🏅 Leadership and Recognition
+
+- **Outstanding Leadership Award — Salt Lake Community College, April 2026**
+- SLCC Staff Star recognition for operational improvement, dependable service, and student-employee mentoring
+- Chair, Staff Development Committee — SLCC Staff Senate
 
 ---
 
