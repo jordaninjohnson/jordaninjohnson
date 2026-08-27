@@ -1,274 +1,176 @@
-# 👋 Jordan I Johnson
+# Hey, I'm Jordan 👋
 
-## Enterprise Application Administration | IT Operations | Business Systems | Higher Education Technology
+### Building Open-Source Software for Real-World Operations
 
-I am an information technology and project-management professional with a **Bachelor of Science in Information Technology** and a **Master of Science in Information Technology Management**. My experience has combined internal software and technology responsibility at Modern Construction with technical operations, process improvement, documentation, leadership, and service at Salt Lake Community College. In April 2026, SLCC recognized my leadership with the **Outstanding Leadership Award**.
+I like software that eventually has to leave `localhost` and survive contact with the real world.
 
-I am building toward a career in **enterprise application administration and business systems support**, with a focus on reliable applications, secure integrations, clear documentation, effective change management, and technology that improves the experience of students, faculty, and staff.
+That means databases, APIs, devices, screens, deployments, logs, users, documentation, weird edge cases, and all the unglamorous work that happens **after the demo works**.
 
----
+Right now I'm building **[IXP](https://github.com/ixp-tech)** — an open-source digital signage and building communication platform — while going deeper into software engineering, databases, integrations, Linux, cloud, and application operations.
 
-## 🎯 Career Focus
-
-I am developing practical, hands-on experience in:
-
-- Enterprise application installation, configuration, maintenance, and support
-- Application monitoring, incident response, troubleshooting, and service restoration
-- SQL databases, data validation, reporting, and backup and recovery concepts
-- REST APIs, system integrations, JSON, CSV, and flat-file workflows
-- Linux and Windows server administration
-- Identity and access management, role-based permissions, SSO, MFA, and TLS
-- Application testing, upgrades, release planning, change control, and rollback
-- Technical documentation, administrator runbooks, standard operating procedures, and diagrams
-- ERP, CRM, BPM, field-service, and customer-service platforms
-- IT project management, governance, risk management, and stakeholder communication
-
-My current technical abilities are **intermediate and growing rapidly through structured labs, portfolio projects, graduate study, and continuous practice**.
+🌐 **[ixp.cool](https://ixp.cool)**
 
 ---
 
-## 💼 What I Bring
+## 🚀 What I'm building right now
 
-### Internal Technology and Project Management
+### IXP `v0.1` — Data Foundation
 
-At **Modern Construction**, where I continue to work part time as a Project Manager, I serve as the company’s primary internal technology resource. I manage internal software and technology needs, gather and compare subcontractor bids for technology and electrical components, and coordinate those project scopes from planning through completion.
+I'm starting with the part nobody puts in the flashy product screenshot:
 
-### Higher Education Operations and Service
+**the database.**
 
-Through my work at **Salt Lake Community College**, I have led specialized Sign Shop operations involving design, RIP, and CAM applications, CNC equipment, printers, laser systems, file workflows, work orders, documentation, vendor escalation, and cross-campus project coordination. I focus on clear communication and a safe, welcoming, accessible, and inclusive community college experience.
+Current mission:
 
-### Leadership and Collaboration
+> Build the relational foundation correctly before stacking everything else on top of it.
 
-As **Chair of Staff Development**, I supported employee learning, engagement, appreciation, and professional growth. I worked with people across different roles and backgrounds and focused on making institutional opportunities easier to understand and access.
+I'm using **PostgreSQL + SQL** to model:
 
-### Project and Operations Mindset
+```text
+Organizations
+   └── Buildings
+        └── Locations
+             └── Screens
+                  └── Devices
 
-I approached work with a project-management perspective by clarifying requirements, organizing priorities, documenting decisions, communicating with stakeholders, identifying risks, coordinating resources, and following work through completion.
+Users
+Roles
+Content
+Playlists
+Schedules
+Events
+Health Checks
+```
 
-### Technical Curiosity
+Then the project grows from there:
 
-I enjoy learning how systems work, identifying where processes break down, and developing practical solutions that connect technology, operations, and customer needs.
+```text
+Database
+   ↓
+REST API
+   ↓
+Admin UI
+   ↓
+Authentication
+   ↓
+Display Player
+   ↓
+Deployment
+   ↓
+Monitoring + Recovery
+   ↓
+Real-world pilot
+```
 
----
-
-## 🏗️ Featured Enterprise Technology Work
-
-### Microsoft Dynamics 365 Facilities Service Management Solution  
-**Graduate Capstone | Academic Enterprise Application Project**
-
-I designed a proposed cloud-based solution using **Microsoft Dynamics 365 Field Service** and **Microsoft Dynamics 365 Customer Service** for a fictional multi-campus educational institution.
-
-The solution addressed fragmented spreadsheets, email-based communication, paper notes, disconnected work-order processes, and limited operational visibility.
-
-Key areas included:
-
-- Centralized service-request and work-order management
-- Staff assignment, scheduling, and resource coordination
-- Customer-service case management and communication workflows
-- Role-based access and user responsibilities
-- Business-process and workflow configuration
-- Requirements analysis and process mapping
-- Reporting dashboards and performance measurements
-- Testing scenarios and phased deployment planning
-- Cost, risk, training, support, and governance considerations
-- Metrics for response time, completion time, staff utilization, service visibility, and customer satisfaction
-
-> This was an academic solution-design project and was not represented as a production deployment at SLCC.
-
----
-
-## 🚀 Enterprise Application Portfolio
-
-I am building portfolio projects that demonstrate the responsibilities of an enterprise application administrator in safe, documented lab environments.
-
-### 1. Enterprise Application Administration Lab  
-**Status: In Development**
-
-A virtualized lab for deploying, configuring, securing, monitoring, updating, and troubleshooting an enterprise-style application.
-
-Planned evidence:
-
-- Linux and Windows administration
-- Application and database configuration
-- Users, roles, and permissions
-- HTTPS and certificate configuration
-- Monitoring, logs, alerts, and health checks
-- Incident documentation
-- Upgrade, testing, and rollback procedures
-- Administrator runbook and architecture diagram
-
-### 2. REST API and SQL Integration Service  
-**Status: In Development**
-
-A documented integration that transfers and validates data between an application and a relational database.
-
-Planned evidence:
-
-- REST API requests and responses
-- JSON parsing and validation
-- SQL queries and database updates
-- CSV import and export
-- Error handling and logging
-- Authentication and secret-management practices
-- Test cases and troubleshooting documentation
-
-### 3. Application Health and Incident Dashboard  
-**Status: Planned**
-
-A monitoring project that checks application availability, records system health, and documents the response to simulated failures.
-
-Planned evidence:
-
-- Availability and response-time checks
-- Application and server logs
-- Alert conditions
-- Incident timeline and root-cause analysis
-- Service-restoration steps
-- Corrective and preventive actions
-- Post-incident review
-
-### 4. Application Upgrade and Rollback Simulation  
-**Status: Planned**
-
-A controlled lab project demonstrating change management for an enterprise application update.
-
-Planned evidence:
-
-- Change request
-- Impact and risk assessment
-- Pre-change backup
-- Test plan
-- Implementation steps
-- Validation results
-- Rollback criteria and procedure
-- Change record and lessons learned
+You can follow the build at **[github.com/ixp-tech](https://github.com/ixp-tech)**.
 
 ---
 
-## 🛠️ Technical Skills
+## 🧰 The tools on my workbench
 
-### Enterprise Applications and IT Operations
+I'm trying very hard not to become a collector of frameworks.
 
-- Application configuration, support, testing, and documentation
-- Incident, problem, change, and release-management concepts
-- Help-desk workflows, issue triage, escalation, and customer communication
-- Business requirements, process mapping, risk assessment, and implementation planning
-- ERP, CRM, BPM, field-service, and customer-service concepts
-- Microsoft Dynamics 365 Field Service and Customer Service solution design
+For now:
 
-### Data and Integrations
+```text
+Data        PostgreSQL · SQL · Oracle SQL practice
+Backend     Python · FastAPI · REST · JSON
+Frontend    TypeScript · React
+Operations  Linux · Docker · GitHub Actions
+Cloud       AWS
+Security    IAM · RBAC · OAuth/OIDC · TLS · Secrets
+```
 
-- SQL and relational-database fundamentals
-- PostgreSQL, MySQL, and Microsoft SQL Server concepts
-- REST APIs, JSON, CSV, and flat-file integrations
-- Data validation, reporting, backup, restore, and recovery concepts
-- Postman and API testing workflows
-
-### Systems, Cloud, and Automation
-
-- Linux and Windows administration fundamentals
-- PowerShell, Bash, Python, and automation concepts
-- Docker, virtualization, and lab-environment design
-- Microsoft Azure, AWS, and cloud-service fundamentals
-- Git, GitHub, Visual Studio Code, and technical version control
-
-### Security
-
-- Role-based access control and least privilege
-- Authentication, SSO, MFA, OAuth, SAML, and identity concepts
-- TLS, certificates, encryption, firewalls, and secure configuration
-- Security monitoring, vulnerability awareness, and system-hardening concepts
-
-### Professional Strengths
-
-- Project coordination and stakeholder communication
-- Technical and process documentation
-- Customer service and relationship building
-- Cross-functional collaboration
-- Training, mentoring, and knowledge sharing
-- Continuous improvement and operational problem-solving
-- Inclusive service to people with different needs, roles, and backgrounds
+I'd rather understand how a smaller set of technologies works **together as a real system** than know the names of 40 tools I can't operate.
 
 ---
 
-## 🎓 Education
+## 🧠 The problems I enjoy
 
-### Master of Science, Information Technology Management  
-**Western Governors University**
+I'm especially interested in software that connects digital systems to the physical world.
 
-Graduate work emphasized IT leadership, technology operations, innovation, financial management, governance, risk, project planning, process improvement, and enterprise technology strategy.
+Things like:
 
-### Bachelor of Science, Information Technology  
-**Western Governors University**
+* applications people actually depend on
+* devices that need to stay online
+* systems that need monitoring and recovery
+* integrations between software and real workflows
+* tools that simplify messy operational problems
+* technology that someone eventually has to install, support, and explain
 
-Coursework developed a foundation in systems, networking, security, cloud computing, databases, scripting, web technologies, and IT operations.
+A lot of what interests me lives somewhere around:
 
----
+**Software × Operations × Facilities × Devices × People**
 
-## 🏅 Leadership and Recognition
-
-- **Outstanding Leadership Award — Salt Lake Community College, April 2026**
-- SLCC Staff Star recognition for operational improvement, dependable service, and student-employee mentoring
-- Chair, Staff Development Committee — SLCC Staff Senate
-
----
-
-## 🏆 Certifications and Training
-
-- AWS Certified Cloud Practitioner
-- CompTIA Security+
-- CompTIA Network+
-- CompTIA A+
-- Full Stack Web Development Certificate — University of Utah
+That's where IXP came from.
 
 ---
 
-## 📚 Currently Learning
+## 🛠️ How I like to build
 
-My current development priorities include:
+A few rules I'm trying to keep:
 
-- Enterprise application deployment and administration
-- SQL troubleshooting and database operations
-- REST API integration and automation
-- Linux and Windows server support
-- Application monitoring and log analysis
-- SSO, MFA, certificates, and identity management
-- Change control, testing, upgrades, and rollback
-- Higher-education ERP and student-information-system concepts
-- Ellucian Banner and Ellucian Ethos fundamentals
-- Clear technical documentation and administrator runbooks
+**Useful beats impressive.**
 
----
+**Working beats hypothetical.**
 
-## 🤝 How I Work
+**Simple until complexity is earned.**
 
-I believe good technology work should:
+**If it matters, test it.**
 
-- Solve a real customer or business problem
-- Be secure, supportable, and well documented
-- Include testing, monitoring, and recovery planning
-- Respect the people affected by the change
-- Improve service rather than add unnecessary complexity
-- Leave the next administrator with clear information
-- Support an inclusive and dependable user experience
+**If someone else might operate it, document it.**
+
+**If it can fail, think about recovery.**
+
+**A real user is worth more than a vanity metric.**
+
+My development loop is basically:
+
+> **Learn → Build → Commit → Document → Release → Operate → Improve**
 
 ---
 
-## 🌍 Beyond Technology
+## 🏗️ Slightly unconventional background
 
-Outside of technical work, I enjoy leadership development, creative design and fabrication, music, outdoor activities, and finding practical ways to help people succeed.
+I didn't arrive here through a perfectly straight software-engineering path.
+
+My background mixes:
+
+**technology operations, enterprise applications, project work, higher education, construction, facilities, signage, fabrication, and customer service.**
+
+I actually like that.
+
+It means I have a lot of strange real-world problems to turn into software.
+
+I hold an **M.S. in Information Technology Management** and a **B.S. in Information Technology**, along with AWS and CompTIA certifications.
+
+But I'd rather let the repositories below show what I can do next.
 
 ---
 
-## 🔗 Connect With Me
+## 📡 Currently broadcasting
 
-- **LinkedIn:** [Jordan I Johnson](https://www.linkedin.com/in/jordaninjohnson/)
-- **GitHub:** Explore my repositories to follow my enterprise application administration learning and project portfolio.
+```text
+STATUS          building
+PROJECT         IXP
+VERSION         pre-v0.1
+FOCUS           PostgreSQL + SQL
+NEXT            REST API
+COFFEE          probably
+```
 
 ---
 
-## 🙌 Thank You for Visiting
+## 🤝 Come say hi
 
-Thank you for reviewing my work. This profile documents both what I have already accomplished and the practical skills I am actively developing for a career in enterprise application administration, IT operations, and higher-education technology.
+If you're into open source, digital signage, application operations, weird hardware/software problems, building useful things in public, or you just spotted something interesting in one of my repos — feel free to reach out.
 
-**Build carefully. Document clearly. Support people well. Keep learning.**
+I like meeting people who build things.
+
+* 🚀 **IXP:** [github.com/ixp-tech](https://github.com/ixp-tech)
+* 🌐 **Web:** [ixp.cool](https://ixp.cool)
+* 💼 **LinkedIn:** [Jordan I. Johnson](https://www.linkedin.com/in/jordaninjohnson/)
+
+---
+
+> **Build something useful. Make it reliable. Make it understandable. Then make it real.**
